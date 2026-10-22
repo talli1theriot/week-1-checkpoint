@@ -14,6 +14,7 @@
 | 4 | Updated README.md section | readme update | main |
 | 5 | Updated ul section | ul update | main |
 | 6 | Added updated About me section | Add new about me section to index.html | main |
-| 7 | Added a <ul>/<ol> section | Added <ul>/<ol> | main |
-| 8 | Updated <ol> | Updated <ol> | main |
+| 7 | Added a ul>/<ol section | Added <ul>/<ol> | main |
+| 8 | Updated ol | Updated ol | main |
 | 9 | Updated README.md section | Updated README pt.2 | main |
+| 10 | Re-updated README.md section | Re-updated README | main |
