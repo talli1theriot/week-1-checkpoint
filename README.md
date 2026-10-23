@@ -20,3 +20,4 @@
 | 10 | Re-updated README.md section | Re-updated README | main |
 | 11 | RE-Re-updated README.md section | RE-Re-updated README | main |
 | 12 | Added a links to sites I like | Added links | main |
+| 13 | Added a picture with citation | Add picture | main |
