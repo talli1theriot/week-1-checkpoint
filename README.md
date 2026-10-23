@@ -1,4 +1,5 @@
 # week-1-checkpoint
+Live site: https://talli1theriot.github.io/week-1-checkpoint/
 ## My setup
 - Operating system: Windows
 - Editor: VsCode
@@ -21,3 +22,4 @@
 | 11 | RE-Re-updated README.md section | RE-Re-updated README | main |
 | 12 | Added a links to sites I like | Added links | main |
 | 13 | Added a picture with citation | Add picture | main |
+| 14 | Add live site link to README. | Added live site link | main |
